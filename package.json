@@ -1,0 +1,24 @@
+{
+  "name": "regres-api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianprasetyo/regres-api-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianprasetyo/regres-api-automation/issues"
+  },
+  "homepage": "https://github.com/dianprasetyo/regres-api-automation#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "cypress": "^10.6.0"
+  }
+}
